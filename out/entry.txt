@@ -1,0 +1,1 @@
+Your friend has a great app idea but can't code - on make.fun they describe it in plain English, an AI agent builds the whole thing, tests it, and ships it. No setup, no cost to try, just results they can show friends.
